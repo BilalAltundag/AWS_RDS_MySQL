@@ -14,5 +14,9 @@ MySQL Workbench Part:
 
 Create a new connection in MySQL Workbench.Write the Endpoint point in the Hostname section. Write the Master username and Master password you created in the Username and password section. Test connection and enter database. Run mysqlsampledatabase.sql file.Now created your database!
 
+Dataset link: https://www.mysqltutorial.org/mysql-sample-database.aspx
+
+You can download this [link](https://www.mysqltutorial.org/wp-content/uploads/2018/03/mysqlsampledatabase.zip)
+
 You can connect this dataset from python code.
 
